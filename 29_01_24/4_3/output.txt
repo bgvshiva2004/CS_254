@@ -1,0 +1,20 @@
+The kth largest element is: 13483
+The time taken to run the program is: 0.008 sec
+The kth largest element is: 20801
+The time taken to run the program is: 0.018 sec
+The kth largest element is: 53102
+The time taken to run the program is: 0.017 sec
+The kth largest element is: 90131
+The time taken to run the program is: 0.015 sec
+The kth largest element is: 36230
+The time taken to run the program is: 0.016 sec
+The kth largest element is: 22424
+The time taken to run the program is: 0 sec
+The kth largest element is: 99942
+The time taken to run the program is: 0.016 sec
+The kth largest element is: 61735
+The time taken to run the program is: 0 sec
+The kth largest element is: 87808
+The time taken to run the program is: 0.016 sec
+The kth largest element is: 28697
+The time taken to run the program is: 0.016 sec

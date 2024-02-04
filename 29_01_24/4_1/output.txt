@@ -1,0 +1,20 @@
+The no.of of inversions are: 24871622
+The time taken to run the program is: 6422.26 sec
+The no.of of inversions are: 99897847
+The time taken to run the program is: 6422.25 sec
+The no.of of inversions are: 399914547
+The time taken to run the program is: 6422.23 sec
+The no.of of inversions are: 900156404
+The time taken to run the program is: 6422.21 sec
+The no.of of inversions are: 399915293
+The time taken to run the program is: 6422.18 sec
+The no.of of inversions are: 625646869
+The time taken to run the program is: 6422.16 sec
+The no.of of inversions are: 624188947
+The time taken to run the program is: 6422.13 sec
+The no.of of inversions are: 624656309
+The time taken to run the program is: 6422.1 sec
+The no.of of inversions are: 225273880
+The time taken to run the program is: 6422.07 sec
+The no.of of inversions are: 1226579026
+The time taken to run the program is: 6422.04 sec
